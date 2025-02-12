@@ -7,8 +7,8 @@ Steps of the project
 3. Lambda Trigger.
    ![Trigger Configuration](./lambda_trigger.png)
 4. upload html code in object and deploy lambda with S3 bucket.
-   ![Trigger bucket](./S3buckettrigger.png)
+   ![Trigger bucket](./S3_bucket_trigger.png)
 6. Cloud watch metrics to monitor log streams related to S3 file Upload.
-   ![cloud watch metrics](./cloudwatchmetrics)
+   ![cloud watch metrics](./cloudwatch_metrics)
 7. Log events.
-   ![log events](./logevents.png)
+   ![log events](./log_events.png)
