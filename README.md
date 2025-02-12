@@ -5,7 +5,7 @@ Steps of the project
 2. Create Lambda function and write lambda code.
    ![Create Lambda](./lambda.png)
 3. Lambda Trigger.
-   ![Trigger Configuration](./lambdatrigger.png)
+   ![Trigger Configuration](./lambda trigger.png)
 4. upload html code in object and deploy lambda with S3 bucket.
    ![Trigger bucket](./S3buckettrigger.png)
 6. Cloud watch metrics to monitor log streams related to S3 file Upload.
